@@ -1,5 +1,5 @@
 # Random-Refresh
-JavaScript code for random refresh for your website\
+JavaScript code for random refresh for your website
 
 My very first actual JavaScript code in GitHub
 I came up with this because of I needed to refresh a certain page between random minutes (yes, yes, don't judge me lol)
